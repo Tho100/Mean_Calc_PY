@@ -1,1 +1,3 @@
-# Mean_Calc_PY
+# Mathematical equation for mean value
+
+# m = Σn / length(n)
